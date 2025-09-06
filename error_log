@@ -1,0 +1,5 @@
+[16-Jul-2025 11:28:49 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Welcome::admit_cards() in /home2/gbytesof/public_html/govtdesk.com/application/controllers/Welcome.php on line 373
+[21-Jul-2025 12:10:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare JobsController::rssb_platoon_commander_recruitment() in /home2/gbytesof/public_html/govtdesk.com/application/controllers/JobsController.php on line 116
+[31-Jul-2025 10:42:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Results::rajasthan_rsmssb_junior_engineer_jen_result() in /home2/gbytesof/public_html/govtdesk.com/application/controllers/Results.php on line 375
+[31-Jul-2025 10:42:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Results::rajasthan_rsmssb_junior_engineer_jen_result() in /home2/gbytesof/public_html/govtdesk.com/application/controllers/Results.php on line 375
+[14-Aug-2025 11:31:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Answer_key::patna_high_court_mazdoor_answer_key() in /home2/gbytesof/public_html/govtdesk.com/application/controllers/Answer_key.php on line 300
